@@ -1,15 +1,14 @@
 # Pewlett-Hackard-Analysis
 
 ## Background
-Now that Bobby has proven his SQL chops, his manager has given both of you two more assignments: determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. Then, you’ll write a report that summarizes your analysis and helps prepare Bobby’s manager for the “silver tsunami” as many current employees reach retirement age.
+A previous analysis was performed on the employees for Pewlett_Hackard to identify the employees that will be coming up to retire since it will be a large amount which the company is calling the "silver tsunami". After identifying this information among other the next part of the analysis is to find the current employees that can participate in a mentoring program to get trained by the retirement-ready employees. The analysis performed here will be covered this last part. 
 
 ## Overview of the analysis
-
-Explain the purpose of this analysis.
+The purpose of this analysis is to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. Then, you’ll write a report that summarizes your analysis and helps prepare Bobby’s manager for the “silver tsunami” as many current employees reach retirement age.
 
 ## Results
 
-### Results for the Number of Retiring Employees by Title
+### Number of Retiring Employees by Title
 
 - Senior Engineers are the highest count of employees retiring. This role has  29,414 employees retiring. 
 
@@ -17,7 +16,7 @@ Explain the purpose of this analysis.
 
 ![alt text](https://github.com/sandramcardona/Pewlett-Hackard-Analysis/blob/main/Pewlett_Hackard_Analysis/Images/Employee_retiring_titles.png)
 
-### Results for the Employees Eligible for the Mentorship Program
+### Employees Eligible for the Mentorship Program
 
 - Senior Engineers have 610 employees available for mentorship program.
 - Senior Staff have 185 employees available for mentorship program.
